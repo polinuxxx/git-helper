@@ -5,14 +5,14 @@ git commands short list
 
 ### git congig --global - edit git configuration file
 #### user.name - add user name
-#### iser.email - add user email
+#### user.email - add user email
 
 ### git init - make directory a repo
 
 ### git status - check repo files condition
 
 ### git add - prepare files for commit
-#### --all - all files in repo
+#### --all - all files in the repo
 #### . - the whole current directory
 
 ### git commit - make a commit
