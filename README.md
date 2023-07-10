@@ -3,7 +3,7 @@ git commands short list
 
 ### git version - print git version
 
-### git congig --global - edit git configuration file
+### git config --global - edit git configuration file
 #### user.name - add user name
 #### user.email - add user email
 
